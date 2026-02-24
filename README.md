@@ -83,16 +83,8 @@ Failures in production rarely come from a single broken component. They come fro
 
 The reasoning engine is the cognitive core of the agent. In modern agentic systems, this is always an LLM — but the LLM's role is more constrained and specific than most people assume.
 
-**What the reasoning engine does:**
-- Interprets the assembled context (input + memory + instructions)
-- Generates a reasoning trace (chain of thought)
-- Selects the next action: call a tool, ask a clarifying question, or produce a final response
-- Formats structured outputs that the runtime can execute
+<img width="472" height="478" alt="image" src="https://git.generalassemb.ly/user-attachments/assets/329b2d9e-1916-4d4d-a7a9-4fdffee939e1" />
 
-**What the reasoning engine does NOT do:**
-- Execute actions (that is the runtime's responsibility)
-- Store information persistently (that is memory's responsibility)
-- Validate whether actions succeeded (that is the environment's responsibility)
 
 This separation of concerns is deliberate and important. Conflating the LLM with the agent leads to systems that are fragile, unauditable, and hard to debug.
 
