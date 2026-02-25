@@ -271,6 +271,8 @@ This is the foundation of Sessions 14 (Building Your First Full Agent) and 15 (M
 
 ## 6. Wrap-Up & Reflection (5 min)
 
+### Key Takeaways
+
 - An Agent Is a System, Not a Model
 - The LLM Thinks. The Runtime Acts.
 - Feedback Is What Makes Agents Adaptive
