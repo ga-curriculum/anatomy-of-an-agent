@@ -271,9 +271,9 @@ This is the foundation of Sessions 14 (Building Your First Full Agent) and 15 (M
 
 ## 6. Wrap-Up & Reflection (5 min)
 
-1. Walk through the data flow of a simple agent task — booking a meeting. Name each stage and the component responsible for it.
-2. What is the critical difference between short-term and long-term memory? What kind of task requires each?
-3. Describe a scenario where in-context adaptation fails and memory-based improvement is needed instead. What makes the difference?
+- An Agent Is a System, Not a Model
+- The LLM Thinks. The Runtime Acts.
+- Feedback Is What Makes Agents Adaptive
 
 > Next session: **How Agents Work** 
 
