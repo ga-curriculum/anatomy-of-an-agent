@@ -265,7 +265,7 @@ This is the foundation of Sessions 14 (Building Your First Full Agent) and 15 (M
 
 ## 5. Lab (60 min)
 
-*Lab details in the Lab Guide document.*
+https://pages.git.generalassemb.ly/Build-AI-Agents/Anatomy-of-an-Agent/
 
 ---
 
