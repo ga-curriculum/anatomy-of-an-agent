@@ -288,3 +288,7 @@ https://pages.git.generalassemb.ly/Build-AI-Agents/Anatomy-of-an-Agent/
 - [OpenAI Function Calling Guide](https://platform.openai.com/docs/guides/function-calling)
 - [Pinecone — What is a Vector Database?](https://www.pinecone.io/learn/vector-database/)
 - Chase, H. — *LangChain Blog: Agents and Tools* (2023)
+
+---
+
+*General Assembly · Build AI Agents · BAA 16.0 · © 2026*
