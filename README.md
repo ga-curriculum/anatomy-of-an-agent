@@ -291,4 +291,4 @@ https://pages.git.generalassemb.ly/Build-AI-Agents/Anatomy-of-an-Agent/
 
 ---
 
-*General Assembly · Build AI Agents · BAA 16.0 · © 2026*
+*General Assembly · Build AI Agents · BAA 2.0 · © 2026*
